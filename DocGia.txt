@@ -1,0 +1,45 @@
+10153,Nguyen Trong,Nhan,Nam,0
+9551,Ajsdj,Asdk,Nam,1
+10179,Nguyen Dang,Viet,Nam,0
+10212,Tran Anh,Tu,Nam,0
+10228,Hoang Thanh,Lam,Nam,0
+10251,Huynh Dinh,Vu,Nam,0
+10277,Ngo Tuan,Anh,Nam,0
+10316,Nguyen Van,A,Nam,0
+10359,Nguyen Van,B,Nam,0
+10378,Tran Thi,C,Nu,0
+10421,Nguyen Thi,Hoa,Nam,0
+10460,Ngo Hoai,Bao,Nam,0
+10480,Nguyen Tran,Nham,Nam,0
+10506,Van Thi,Huyen,Nu,0
+10532,Le Van,Viet,Nam,0
+10574,Do Van,Thinh,Nam,0
+10627,Nguyen Huyen,Diu,Nu,0
+10662,Hoang Quoc,Khanh,Nam,1
+10692,Le Thi Anh,Nu,Nu,1
+10757,Nguyen Minh,Anh,Nu,1
+10832,Nguyen Thi Nhu,Le,Nam,1
+10888,Nguyen Thi Kim,Toa,Nam,0
+10914,Tran Ngoc Nhu,Phuong,Nu,1
+10950,Thai Nguyen Huynh,Nhi,Nu,1
+10979,Nguyen,Huynh,Nam,1
+11012,Nguyen Long,Nhat,Nam,1
+11035,Le Ngoc,Hai,Nam,1
+11077,Nguyen Van,Han,Nam,1
+11107,Nguyen Ngoc,Han,Nam,1
+11146,Bui Tan,Phuc,Nam,1
+11178,Ton Thi,Hue,Nu,1
+11303,Kim Ngoc,Tho,Nam,1
+11348,Nguyen Trong,Tinh,Nam,0
+11610,Le Nguyen Tran,Trong,Nam,0
+11766,Nguyen Thi,Hien,Nu,1
+11819,Vuong Ngoc Minh,Chau,Nu,1
+11841,Nguyen Thanh,Qui,Nam,1
+11874,Nguyen Thanh,Dung,Nam,1
+11910,Tran Hai,Dang,Nam,1
+11992,Ton Ly,Thuyet,Nam,0
+12027,Nguyen Thanh,Tung,Nam,1
+12096,Ngo Ba,Kha,Nam,1
+12119,Bui Xuan,Huan,Nam,0
+12145,Nguyen Thi Huyen,Thu,Nu,0
+13246,Vo Thi Hoa,Tranh,Nu,1
